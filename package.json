@@ -8,21 +8,17 @@
     "npm": "^6.1.0",
     "socket.io": "^2.1.1"
   },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/manuelre11/reversi.git"
+    "url": "git+https://github.com/michellechin/reversi_v1.git"
   },
   "keywords": [
     "reversi"
   ],
-  "author": "Manuel R. Espinosa",
+  "author": "Michelle D. Chin",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/manuelre11/reversi/issues"
+    "url": "https://github.com/michellechin/reversi_v1/issues"
   },
-  "homepage": "https://github.com/manuelre11/reversi#readme"
+  "homepage": "https://github.com/michellechin/reversi_v1#readme",
 }
